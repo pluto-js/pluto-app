@@ -1,6 +1,8 @@
-# Pluto App
+# Pluto App (Work in Progress)
 
 Pluto App is an open-source web application developed with Next.js 13 and its advanced routing capabilities. This cutting-edge app empowers developers to create modern, high-performance web applications with the latest features and enhancements.
+
+Please note that this project is still in development, and certain features may be incomplete or subject to change.
 
 ## Key Features
 
